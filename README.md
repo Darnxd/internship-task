@@ -11,4 +11,12 @@ Skills:
 Basic Network Security, Threat Identification, Security Best Practices
 
 Tools:
-Firewall (Windows Defender Firewall or a basic hardware firewall), Wireshark
+Firewall (Windows Defender Firewall or a basic hardware firewall), Wireshark.
+
+Guidelines:The
+
+1. Learn Network Security Concepts:
+o Research and summarize different types of network threats, including viruses, worms,
+trojans, and phishing attacks.
+o Understand basic security concepts like firewalls, encryption, and secure network
+configurations.
