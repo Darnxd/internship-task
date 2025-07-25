@@ -23,6 +23,7 @@ trojans, and phishing attacks.
 configurations.
 
 2. Implement Basic Security Measures:
+
 o Set up a simple network environment, such as your home network or a virtual lab with a
 router and one or two connected devices.
 
