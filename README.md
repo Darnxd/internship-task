@@ -44,3 +44,9 @@ they mean.
 - The security measures you implemented and why.
 - Screenshots or descriptions of the traffic you captured with Wireshark.
 - A discussion on how these basic security measures help protect the network.
+
+5. Reflect on Security Best Practices:
+- Consider what additional security measures could be implemented in a larger, more
+complex network.
+- Write a short paragraph on how you would educate others about the importance of
+network security in everyday use.
