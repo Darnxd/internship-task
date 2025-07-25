@@ -33,7 +33,7 @@ network encryption (WPA2 or WPA3).
 
 3. Monitor Network Traffic:
 
-o Use Wireshark to capture and analyse network traffic.
-o Identify different types of traffic, such as HTTP, DNS, and others, and understand what
+- Use Wireshark to capture and analyse network traffic.
+- Identify different types of traffic, such as HTTP, DNS, and others, and understand what
 they mean.
-o Learn how to spot unusual or suspicious traffic that might indicate a security threat.
+- Learn how to spot unusual or suspicious traffic that might indicate a security threat.
