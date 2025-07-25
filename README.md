@@ -9,5 +9,6 @@ of securing a small network.
 
 Skills:
 Basic Network Security, Threat Identification, Security Best Practices
+
 Tools:
 Firewall (Windows Defender Firewall or a basic hardware firewall), Wireshark
