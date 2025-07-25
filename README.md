@@ -39,7 +39,8 @@ they mean.
 - Learn how to spot unusual or suspicious traffic that might indicate a security threat.
 
 4. Document Findings:
-o A summary of the network threats you researched.
-o The security measures you implemented and why.
-o Screenshots or descriptions of the traffic you captured with Wireshark.
-o A discussion on how these basic security measures help protect the network.
+
+- A summary of the network threats you researched.
+- The security measures you implemented and why.
+- Screenshots or descriptions of the traffic you captured with Wireshark.
+- A discussion on how these basic security measures help protect the network.
