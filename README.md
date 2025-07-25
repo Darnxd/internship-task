@@ -37,3 +37,9 @@ network encryption (WPA2 or WPA3).
 - Identify different types of traffic, such as HTTP, DNS, and others, and understand what
 they mean.
 - Learn how to spot unusual or suspicious traffic that might indicate a security threat.
+
+4. Document Findings:
+o A summary of the network threats you researched.
+o The security measures you implemented and why.
+o Screenshots or descriptions of the traffic you captured with Wireshark.
+o A discussion on how these basic security measures help protect the network.
